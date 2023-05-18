@@ -35,9 +35,8 @@ squareOfWordLength3("Developer Smart");
 console.log(`------------------------------------------------------ `);
 console.log(" ");
 
-
-var value2 = `I am Angular Developer`;
 console.log("Q.2.");
+var value2 = `I am Angular Developer`;
 function divide(){
     console.log(`The given String is : ${value2}`);
     console.log(" ");
