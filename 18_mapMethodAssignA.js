@@ -22,3 +22,6 @@ const arrayTrans = arrayNumbers.map( (element, index) => {
     return element+index;
 } );
 console.log(arrayTrans);
+
+
+// Complete
