@@ -40,4 +40,4 @@ const arrayBet = arrayNumbers.filter( (element)=> {
 console.log(arrayBet);
 
 
-// Completed
+// Complete

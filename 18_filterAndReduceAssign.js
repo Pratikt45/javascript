@@ -86,4 +86,4 @@ const average1=sum/newArray.length;
 console.log(`Average Salary of IT Dept Emp is :${average1}`); 
 
 
-//Completed
+//Complete
