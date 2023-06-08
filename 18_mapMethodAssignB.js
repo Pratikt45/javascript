@@ -40,3 +40,5 @@ let empNames2 = array_employess.map((element)=>{
     return element.emp_id;
 });
 console.log(empNames2);
+
+//Complete
