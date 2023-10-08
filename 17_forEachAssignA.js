@@ -59,7 +59,7 @@ arrayNumbers.forEach((element) => {
 });
 console.log(result);
 
-console.log(
+console.log( 
   "---------------------------------------------------------------------"
 );
 console.log("6. Log only even indexed array value on console.");
