@@ -29,10 +29,7 @@ console.log(empNames);
 
 console.log("Step 2. Get the list of Department names");
 
-let empNames1= array_employess.map((element)=>{
-    return element.emp_dept;
-});
-console.log(empNames1);
+ 
 
 console.log("Get the list of Employee Id's");
 
